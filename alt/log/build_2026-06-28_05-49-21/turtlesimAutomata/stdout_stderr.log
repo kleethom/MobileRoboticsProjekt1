@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/turtlesimAutomata/turtlesimAutomata.egg-info
+writing ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/requires.txt
+writing top-level names to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/top_level.txt
+writing manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib/turtlesimAutomata
+copying turtlesimAutomata/__init__.py -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib/turtlesimAutomata
+running install
+running install_lib
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata
+copying /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib/turtlesimAutomata/__init__.py -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata
+byte-compiling /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/share/ament_index
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/share/ament_index/resource_index
+creating /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/share/ament_index/resource_index/packages
+copying resource/turtlesimAutomata -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/share/turtlesimAutomata
+running install_egg_info
+Copying ../../build/turtlesimAutomata/turtlesimAutomata.egg-info to /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log'

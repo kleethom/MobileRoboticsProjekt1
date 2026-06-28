@@ -1,0 +1,32 @@
+[0.000000] (-) TimerEvent: {}
+[0.000324] (turtlesimAutomata) JobQueued: {'identifier': 'turtlesimAutomata', 'dependencies': OrderedDict()}
+[0.000473] (turtlesimAutomata) JobStarted: {'identifier': 'turtlesimAutomata'}
+[0.099308] (-) TimerEvent: {}
+[0.199792] (-) TimerEvent: {}
+[0.300478] (-) TimerEvent: {}
+[0.400876] (-) TimerEvent: {}
+[0.418690] (turtlesimAutomata) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/turtlesimAutomata', 'build', '--build-base', '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build', 'install', '--record', '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/src/turtlesimAutomata', 'env': {'VNCDESKTOP': 'a94d2aa6a1e6:1 (ubuntu)', 'QT_SCALE_FACTOR': '1', 'USER': 'ubuntu', 'SUPERVISOR_GROUP_NAME': 'vnc', 'HOSTNAME': 'a94d2aa6a1e6', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/ubuntu', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-g7NZKvuVTO,guid=e7748f7343fb2332e605c1d86a40b332', 'COLORTERM': 'truecolor', 'GNOME_KEYRING_CONTROL': '/home/ubuntu/.cache/keyring-2E0QR3', 'COLCON_PREFIX_PATH': '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install', 'ROS_DISTRO': 'humble', 'WINDOWID': '33556220', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'ROS_LOCALHOST_ONLY': '0', 'INSIDE_CAJA_PYTHON': '', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/a94d2aa6a1e6:@/tmp/.ICE-unix/83,unix/a94d2aa6a1e6:/tmp/.ICE-unix/83', 'DISPLAY': ':1', 'XDG_CURRENT_DESKTOP': 'MATE', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/ubuntu/.cache/keyring-2E0QR3/ssh', 'AMENT_PREFIX_PATH': '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata:/opt/ros/humble', 'PASSWD': 'ubuntu', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata', 'PYTHONPATH': '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages:/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'COLCON': '1', 'VTE_VERSION': '6800', 'QT_FONT_DPI': '96'}, 'shell': False}
+[0.501057] (-) TimerEvent: {}
+[0.569225] (turtlesimAutomata) StdoutLine: {'line': b'running egg_info\n'}
+[0.569579] (turtlesimAutomata) StdoutLine: {'line': b'writing ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/PKG-INFO\n'}
+[0.569771] (turtlesimAutomata) StdoutLine: {'line': b'writing dependency_links to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/dependency_links.txt\n'}
+[0.569996] (turtlesimAutomata) StdoutLine: {'line': b'writing entry points to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/entry_points.txt\n'}
+[0.570134] (turtlesimAutomata) StdoutLine: {'line': b'writing requirements to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/requires.txt\n'}
+[0.570213] (turtlesimAutomata) StdoutLine: {'line': b'writing top-level names to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/top_level.txt\n'}
+[0.571254] (turtlesimAutomata) StdoutLine: {'line': b"reading manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'\n"}
+[0.571934] (turtlesimAutomata) StdoutLine: {'line': b"writing manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'\n"}
+[0.572093] (turtlesimAutomata) StdoutLine: {'line': b'running build\n'}
+[0.572147] (turtlesimAutomata) StdoutLine: {'line': b'running build_py\n'}
+[0.572325] (turtlesimAutomata) StdoutLine: {'line': b'running install\n'}
+[0.572606] (turtlesimAutomata) StdoutLine: {'line': b'running install_lib\n'}
+[0.573552] (turtlesimAutomata) StdoutLine: {'line': b'running install_data\n'}
+[0.573689] (turtlesimAutomata) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.575699] (turtlesimAutomata) StdoutLine: {'line': b"removing '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[0.576127] (turtlesimAutomata) StdoutLine: {'line': b'Copying ../../build/turtlesimAutomata/turtlesimAutomata.egg-info to /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata-0.0.0-py3.10.egg-info\n'}
+[0.576905] (turtlesimAutomata) StdoutLine: {'line': b'running install_scripts\n'}
+[0.591098] (turtlesimAutomata) StdoutLine: {'line': b'Installing automata_node script to /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/turtlesimAutomata\n'}
+[0.591328] (turtlesimAutomata) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log'\n"}
+[0.601214] (-) TimerEvent: {}
+[0.609355] (turtlesimAutomata) CommandEnded: {'returncode': 0}
+[0.617113] (turtlesimAutomata) JobEnded: {'identifier': 'turtlesimAutomata', 'rc': 0}
+[0.617928] (-) EventReactorShutdown: {}

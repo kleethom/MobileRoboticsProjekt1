@@ -1,0 +1,1 @@
+/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesim/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp

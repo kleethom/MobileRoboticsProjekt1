@@ -1,0 +1,24 @@
+[0.424s] Invoking command in '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/src/turtlesimAutomata': PYTHONPATH=/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesimAutomata build --build-base /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build install --record /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.556s] writing ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/PKG-INFO
+[0.557s] writing dependency_links to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/entry_points.txt
+[0.557s] writing requirements to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/turtlesimAutomata/turtlesimAutomata.egg-info/top_level.txt
+[0.558s] reading manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'
+[0.559s] writing manifest file '../../build/turtlesimAutomata/turtlesimAutomata.egg-info/SOURCES.txt'
+[0.560s] running build
+[0.560s] running build_py
+[0.560s] copying turtlesimAutomata/automata_node.py -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib/turtlesimAutomata
+[0.560s] running install
+[0.560s] running install_lib
+[0.562s] copying /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build/lib/turtlesimAutomata/automata_node.py -> /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata
+[0.562s] byte-compiling /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata/automata_node.py to automata_node.cpython-310.pyc
+[0.564s] running install_data
+[0.564s] running install_egg_info
+[0.566s] removing '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata-0.0.0-py3.10.egg-info' (and everything under it)
+[0.566s] Copying ../../build/turtlesimAutomata/turtlesimAutomata.egg-info to /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages/turtlesimAutomata-0.0.0-py3.10.egg-info
+[0.568s] running install_scripts
+[0.580s] Installing automata_node script to /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/turtlesimAutomata
+[0.580s] writing list of installed files to '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log'
+[0.593s] Invoked command in '/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/src/turtlesimAutomata' returned '0': PYTHONPATH=/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/install/turtlesimAutomata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesimAutomata build --build-base /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/build install --record /home/ubuntu/MobileRoboticsProjekt/MobileRoboticsProjekt1/ros2_ws/build/turtlesimAutomata/install.log --single-version-externally-managed install_data
