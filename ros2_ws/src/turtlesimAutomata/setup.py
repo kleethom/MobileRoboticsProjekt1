@@ -19,7 +19,7 @@ setup(
     install_requires=["setuptools"],
     zip_safe=True,
     maintainer="Thomas Kleemayr",
-    maintainer_email="",
+    maintainer_email="kT5526@mci4me.at",
     description="ROS2 turtlesim automata assignment for Mobile Robotics.",
     license="Apache-2.0",
     extras_require={

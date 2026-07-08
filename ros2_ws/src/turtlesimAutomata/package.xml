@@ -10,7 +10,7 @@
     ROS2 turtlesim automata assignment for the Mobile Robotics course.
   </description>
 
-  <maintainer email="">Thomas Kleemayr</maintainer>
+  <maintainer email="kT5526@mci4me.at">Thomas Kleemayr</maintainer>
 
   <license>Apache-2.0</license>
 
